@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/PracticasP/Conversacion1.unity
+    guid: 4e386b753a8580c4f8cc3cff0746ea6f
+  - enabled: 1
+    path: Assets/Scenes/PracticasP/Conversacion2.unity
+    guid: 7f69e351981148147b91b45f46b96401
+  - enabled: 1
+    path: Assets/Scenes/PracticasP/Conversacion3.unity
+    guid: 7cd5bcc83e2b25740acb32f0ea4998c9
+  - enabled: 0
+    path: Assets/CambioEscenas/Inicio.unity
+    guid: e80288a17c2ee5544b45679fbd07ce3f
+  - enabled: 0
+    path: Assets/CambioEscenas/Contenido.unity
+    guid: e7b0301e0ea0cf144a090ffafb4d5c5b
+  - enabled: 0
+    path: Assets/CambioEscenas/Fin.unity
+    guid: c9202fc31b0662f47aa1ca6fbbdd317e
+  m_configObjects: {}
