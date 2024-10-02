@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class P4_CambiaColor : MonoBehaviour
-
+// Chuy P
 {
     Renderer rend;
        [SerializeField] Material Material_1;
